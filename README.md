@@ -14,15 +14,15 @@ This project allows users to select a fruit from a dropdown menu and instantly v
 - JavaScript – DOM manipulation and event handling
 
 📂 Project Structure
-fruit-visualizer/
-│
-├── index.html      # HTML structure
-├── style.css       # CSS styling
-├── script.js       # JavaScript logic
-└── images/
-    ├── apple.jpg
-    ├── banana.jpg
-    └── grapes.jpg
+- fruit-visualizer/
+- │
+- ├── index.html      # HTML structure
+- ├── style.css       # CSS styling
+- ├── script.js       # JavaScript logic
+- └── images/
+-     ├── apple.jpg
+-     ├── banana.jpg
+-     └── grapes.jpg
 
 📋 How It Works
 - User selects a fruit from the dropdown list
