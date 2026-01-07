@@ -49,5 +49,5 @@ fruit-visualizer/
 - Display fruit name dynamically
 
 👨‍💻 Author
-Arun Siva
-Web Development Beginner Project
+- Arun Siva
+- Web Development Beginner Project
