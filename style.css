@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(241, 177, 92);
+}
+#container{
+    border: solid 2px white;
+    border-radius: 8px;
+    background-color: white;
+    width: 25%;
+    text-align: center;
+    margin: 200px 625px 200px 580px;
+}
+#fruit-image{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
